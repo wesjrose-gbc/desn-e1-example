@@ -1,1 +1,3 @@
-# desn-e2-example hello world
+# desn-e1-example
+
+This is an example site related to DESN 3035 E1
